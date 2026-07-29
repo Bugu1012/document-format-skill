@@ -77,10 +77,10 @@ flowchart LR
 
 ```bash
 # Codex
-git clone https://github.com/YOUR_USERNAME/document-format-skill.git ~/.codex/skills/document-format-skill
+git clone https://github.com/Bugu1012/document-format-skill.git ~/.codex/skills/document-format-skill
 
 # Claude Code
-git clone https://github.com/YOUR_USERNAME/document-format-skill.git ~/.claude/skills/document-format-skill
+git clone https://github.com/Bugu1012/document-format-skill.git ~/.claude/skills/document-format-skill
 ```
 
 ### 2. 安装依赖
